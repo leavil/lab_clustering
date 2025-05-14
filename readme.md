@@ -49,10 +49,5 @@ Importancia del clustering para encontrar estructuras ocultas en datos no etique
 - Reflexión sobre el valor del clustering no supervisado.
 - Posibles extensiones o mejoras al trabajo.
 
-## Apéndice (opcional)
-- Código complementario.
-- Tablas de parámetros y métricas por cada modelo.
-
 ## 📦 Entregables
 - Jupyter Notebook bien documentado, con explicaciones y visualizaciones.
-- Informe PDF o Markdown con resumen de hallazgos y preguntas clave.
